@@ -1,0 +1,59 @@
+Date : 2022-02-25 22:38:24
+Directory : c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app
+Total : 23 files,  32222 codes, 62 comments, 116 blanks, all 32400 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          5 |     31,811 |          0 |          5 |     31,816 |
+| JavaScript |         13 |        302 |         39 |         67 |        408 |
+| CSS        |          2 |         48 |          0 |         10 |         58 |
+| Markdown   |          1 |         38 |          0 |         33 |         71 |
+| HTML       |          1 |         22 |         23 |          1 |         46 |
+| XML        |          1 |          1 |          0 |          0 |          1 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                      | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                         |         23 |     32,222 |         62 |        116 |     32,400 |
+| Backend                                                                                                                   |          9 |      4,140 |         36 |         57 |      4,233 |
+| Backend\middleware                                                                                                        |          1 |         16 |          1 |          6 |         23 |
+| Backend\models                                                                                                            |          2 |         48 |          0 |          3 |         51 |
+| Backend\routes                                                                                                            |          2 |        182 |         31 |         41 |        254 |
+| public                                                                                                                    |          2 |         47 |         23 |          2 |         72 |
+| src                                                                                                                       |          8 |         77 |          3 |         21 |        101 |
+| src\components                                                                                                            |          3 |          7 |          0 |          4 |         11 |
++---------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                                                  | language   | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\Backend\db.js                   | JavaScript |          8 |          0 |          1 |          9 |
+| c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\Backend\index.js                | JavaScript |         11 |          4 |          4 |         19 |
+| c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\Backend\middleware\fetchuser.js | JavaScript |         16 |          1 |          6 |         23 |
+| c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\Backend\models\Notes.js         | JavaScript |         25 |          0 |          2 |         27 |
+| c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\Backend\models\User.js          | JavaScript |         23 |          0 |          1 |         24 |
+| c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\Backend\package-lock.json       | JSON       |      3,854 |          0 |          1 |      3,855 |
+| c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\Backend\package.json            | JSON       |         21 |          0 |          1 |         22 |
+| c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\Backend\routes\auth.js          | JavaScript |         85 |         17 |         24 |        126 |
+| c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\Backend\routes\notes.js         | JavaScript |         97 |         14 |         17 |        128 |
+| c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\README.md                       | Markdown   |         38 |          0 |         33 |         71 |
+| c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\package-lock.json               | JSON       |     27,866 |          0 |          1 |     27,867 |
+| c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\package.json                    | JSON       |         45 |          0 |          1 |         46 |
+| c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\public\index.html               | HTML       |         22 |         23 |          1 |         46 |
+| c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\public\manifest.json            | JSON       |         25 |          0 |          1 |         26 |
+| c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\src\App.css                     | CSS        |         33 |          0 |          6 |         39 |
+| c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\src\App.js                      | JavaScript |         11 |          0 |          3 |         14 |
+| c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\src\components\About.js         | JavaScript |          0 |          0 |          1 |          1 |
+| c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\src\components\Home.js          | JavaScript |          0 |          0 |          1 |          1 |
+| c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\src\components\Navbar.js        | JavaScript |          7 |          0 |          2 |          9 |
+| c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\src\index.css                   | CSS        |         15 |          0 |          4 |         19 |
+| c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\src\index.js                    | JavaScript |         10 |          3 |          4 |         17 |
+| c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\src\logo.svg                    | XML        |          1 |          0 |          0 |          1 |
+| c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\tailwind.config.js              | JavaScript |          9 |          0 |          1 |         10 |
+| Total                                                                                                                     |            |     32,222 |         62 |        116 |     32,400 |
++---------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+

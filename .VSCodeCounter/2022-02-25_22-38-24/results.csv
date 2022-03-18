@@ -1,0 +1,25 @@
+"filename", "language", "JavaScript", "JSON", "CSS", "XML", "HTML", "Markdown", "comment", "blank", "total"
+"c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\Backend\db.js", "JavaScript", 8, 0, 0, 0, 0, 0, 0, 1, 9
+"c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\Backend\index.js", "JavaScript", 11, 0, 0, 0, 0, 0, 4, 4, 19
+"c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\Backend\middleware\fetchuser.js", "JavaScript", 16, 0, 0, 0, 0, 0, 1, 6, 23
+"c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\Backend\models\Notes.js", "JavaScript", 25, 0, 0, 0, 0, 0, 0, 2, 27
+"c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\Backend\models\User.js", "JavaScript", 23, 0, 0, 0, 0, 0, 0, 1, 24
+"c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\Backend\package-lock.json", "JSON", 0, 3854, 0, 0, 0, 0, 0, 1, 3855
+"c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\Backend\package.json", "JSON", 0, 21, 0, 0, 0, 0, 0, 1, 22
+"c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\Backend\routes\auth.js", "JavaScript", 85, 0, 0, 0, 0, 0, 17, 24, 126
+"c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\Backend\routes\notes.js", "JavaScript", 97, 0, 0, 0, 0, 0, 14, 17, 128
+"c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\README.md", "Markdown", 0, 0, 0, 0, 0, 38, 0, 33, 71
+"c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\package-lock.json", "JSON", 0, 27866, 0, 0, 0, 0, 0, 1, 27867
+"c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\package.json", "JSON", 0, 45, 0, 0, 0, 0, 0, 1, 46
+"c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\public\index.html", "HTML", 0, 0, 0, 0, 22, 0, 23, 1, 46
+"c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\public\manifest.json", "JSON", 0, 25, 0, 0, 0, 0, 0, 1, 26
+"c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\src\App.css", "CSS", 0, 0, 33, 0, 0, 0, 0, 6, 39
+"c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\src\App.js", "JavaScript", 11, 0, 0, 0, 0, 0, 0, 3, 14
+"c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\src\components\About.js", "JavaScript", 0, 0, 0, 0, 0, 0, 0, 1, 1
+"c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\src\components\Home.js", "JavaScript", 0, 0, 0, 0, 0, 0, 0, 1, 1
+"c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\src\components\Navbar.js", "JavaScript", 7, 0, 0, 0, 0, 0, 0, 2, 9
+"c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\src\index.css", "CSS", 0, 0, 15, 0, 0, 0, 0, 4, 19
+"c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\src\index.js", "JavaScript", 10, 0, 0, 0, 0, 0, 3, 4, 17
+"c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\src\logo.svg", "XML", 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\rahul\Desktop\Practice Projects\React and next.js practice project\inotebook-app\tailwind.config.js", "JavaScript", 9, 0, 0, 0, 0, 0, 0, 1, 10
+"Total", "-", 302, 31811, 48, 1, 22, 38, 62, 116, 32400
